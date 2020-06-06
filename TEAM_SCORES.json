@@ -1,0 +1,1344 @@
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888ea"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-13T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Russia",
+			"TeamScore" : NumberInt(5),
+			"OpposingTeam" : "Saudi Arabia",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-18T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Russia",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Egypt",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-06T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Russia",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Croatia",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-24T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Russia",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Uruguay",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-30T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Russia",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Spain",
+			"OpposingScore" : NumberInt(1)
+		}
+	],
+	"Team" : "Russia"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888eb"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-24T19:00:00.000-05:00"),
+			"Stadium City" : "Volgograd",
+			"Stadium Name" : "Volgograd Stadium",
+			"TeamName" : "Saudi Arabia",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Egypt",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-13T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Saudi Arabia",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Russia",
+			"OpposingScore" : NumberInt(5)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-19T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "Saudi Arabia",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Uruguay",
+			"OpposingScore" : NumberInt(1)
+		}
+	],
+	"Team" : "Saudi Arabia"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888ec"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-14T19:00:00.000-05:00"),
+			"Stadium City" : "Ekaterinburg",
+			"Stadium Name" : "Ekaterinburg Arena",
+			"TeamName" : "Egypt",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Uruguay",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-18T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Egypt",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Russia",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-24T19:00:00.000-05:00"),
+			"Stadium City" : "Volgograd",
+			"Stadium Name" : "Volgograd Stadium",
+			"TeamName" : "Egypt",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Saudi Arabia",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "Egypt"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888ed"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-19T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "Uruguay",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Saudi Arabia",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-24T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Uruguay",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Russia",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-29T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Uruguay",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Portugal",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-05T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "Uruguay",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "France",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-14T19:00:00.000-05:00"),
+			"Stadium City" : "Ekaterinburg",
+			"Stadium Name" : "Ekaterinburg Arena",
+			"TeamName" : "Uruguay",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Egypt",
+			"OpposingScore" : NumberInt(0)
+		}
+	],
+	"Team" : "Uruguay"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888ee"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-14T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Portugal",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Spain",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-19T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Portugal",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Morocco",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-24T19:00:00.000-05:00"),
+			"Stadium City" : "Saransk",
+			"Stadium Name" : "Mordovia Arena",
+			"TeamName" : "Portugal",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Iran",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-29T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Portugal",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Uruguay",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "Portugal"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888ef"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-24T19:00:00.000-05:00"),
+			"Stadium City" : "Kaliningrad",
+			"Stadium Name" : "Kaliningrad Stadium",
+			"TeamName" : "Spain",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Morocco",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-30T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Spain",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Russia",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-14T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Spain",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Portugal",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-19T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "Spain",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Iran",
+			"OpposingScore" : NumberInt(0)
+		}
+	],
+	"Team" : "Spain"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f0"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-14T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Morocco",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Iran",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-19T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Morocco",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Portugal",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-24T19:00:00.000-05:00"),
+			"Stadium City" : "Kaliningrad",
+			"Stadium Name" : "Kaliningrad Stadium",
+			"TeamName" : "Morocco",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Spain",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "Morocco"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f1"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-19T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "Iran",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Spain",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-24T19:00:00.000-05:00"),
+			"Stadium City" : "Saransk",
+			"Stadium Name" : "Mordovia Arena",
+			"TeamName" : "Iran",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Portugal",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-14T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Iran",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Morocco",
+			"OpposingScore" : NumberInt(0)
+		}
+	],
+	"Team" : "Iran"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f2"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-15T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "France",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Australia",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-20T19:00:00.000-05:00"),
+			"Stadium City" : "Ekaterinburg",
+			"Stadium Name" : "Ekaterinburg Arena",
+			"TeamName" : "France",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Peru",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-29T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "France",
+			"TeamScore" : NumberInt(4),
+			"OpposingTeam" : "Argentina",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-09T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "France",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Belgium",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-14T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "France",
+			"TeamScore" : NumberInt(4),
+			"OpposingTeam" : "Croatia",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-25T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "France",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Denmark",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-05T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "France",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Uruguay",
+			"OpposingScore" : NumberInt(0)
+		}
+	],
+	"Team" : "France"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f3"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-25T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Australia",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Peru",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-15T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "Australia",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "France",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-20T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Australia",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Denmark",
+			"OpposingScore" : NumberInt(1)
+		}
+	],
+	"Team" : "Australia"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f4"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-15T19:00:00.000-05:00"),
+			"Stadium City" : "Saransk",
+			"Stadium Name" : "Mordovia Arena",
+			"TeamName" : "Peru",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Denmark",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-20T19:00:00.000-05:00"),
+			"Stadium City" : "Ekaterinburg",
+			"Stadium Name" : "Ekaterinburg Arena",
+			"TeamName" : "Peru",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "France",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-25T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Peru",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Australia",
+			"OpposingScore" : NumberInt(0)
+		}
+	],
+	"Team" : "Peru"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f5"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-20T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Denmark",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Australia",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-25T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Denmark",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "France",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-15T19:00:00.000-05:00"),
+			"Stadium City" : "Saransk",
+			"Stadium Name" : "Mordovia Arena",
+			"TeamName" : "Denmark",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Peru",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-30T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "Denmark",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Croatia",
+			"OpposingScore" : NumberInt(1)
+		}
+	],
+	"Team" : "Denmark"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f6"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-15T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "Argentina",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Iceland",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-20T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "Argentina",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Croatia",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-25T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Argentina",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Nigeria",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-29T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "Argentina",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "France",
+			"OpposingScore" : NumberInt(4)
+		}
+	],
+	"Team" : "Argentina"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f7"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-25T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "Iceland",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Croatia",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-15T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "Iceland",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Argentina",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-21T19:00:00.000-05:00"),
+			"Stadium City" : "Volgograd",
+			"Stadium Name" : "Volgograd Stadium",
+			"TeamName" : "Iceland",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Nigeria",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "Iceland"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f8"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-15T19:00:00.000-05:00"),
+			"Stadium City" : "Kaliningrad",
+			"Stadium Name" : "Kaliningrad Stadium",
+			"TeamName" : "Croatia",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Nigeria",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-30T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "Croatia",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Denmark",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-10T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Croatia",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "England",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-20T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "Croatia",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Argentina",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-25T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "Croatia",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Iceland",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-06T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Croatia",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Russia",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-14T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Croatia",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "France",
+			"OpposingScore" : NumberInt(4)
+		}
+	],
+	"Team" : "Croatia"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888f9"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-21T19:00:00.000-05:00"),
+			"Stadium City" : "Volgograd",
+			"Stadium Name" : "Volgograd Stadium",
+			"TeamName" : "Nigeria",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Iceland",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-25T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Nigeria",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Argentina",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-15T19:00:00.000-05:00"),
+			"Stadium City" : "Kaliningrad",
+			"Stadium Name" : "Kaliningrad Stadium",
+			"TeamName" : "Nigeria",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Croatia",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "Nigeria"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888fa"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-16T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "Brazil",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Switzerland",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-21T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Brazil",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Costa Rica",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-01T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Brazil",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Mexico",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-05T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "Brazil",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Belgium",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-26T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "Brazil",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Serbia",
+			"OpposingScore" : NumberInt(0)
+		}
+	],
+	"Team" : "Brazil"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888fb"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-26T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "Switzerland",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Costa Rica",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-16T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "Switzerland",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Brazil",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-21T19:00:00.000-05:00"),
+			"Stadium City" : "Kaliningrad",
+			"Stadium Name" : "Kaliningrad Stadium",
+			"TeamName" : "Switzerland",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Serbia",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-02T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Switzerland",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Sweden",
+			"OpposingScore" : NumberInt(1)
+		}
+	],
+	"Team" : "Switzerland"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888fc"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-16T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Costa Rica",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Serbia",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-21T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Costa Rica",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Brazil",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-26T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "Costa Rica",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Switzerland",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "Costa Rica"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888fd"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-21T19:00:00.000-05:00"),
+			"Stadium City" : "Kaliningrad",
+			"Stadium Name" : "Kaliningrad Stadium",
+			"TeamName" : "Serbia",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Switzerland",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-26T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "Serbia",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Brazil",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-16T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Serbia",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Costa Rica",
+			"OpposingScore" : NumberInt(0)
+		}
+	],
+	"Team" : "Serbia"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888fe"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-16T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Germany",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Mexico",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-22T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Germany",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Sweden",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-26T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "Germany",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "South Korea",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "Germany"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e38888ff"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-26T19:00:00.000-05:00"),
+			"Stadium City" : "Ekaterinburg",
+			"Stadium Name" : "Ekaterinburg Arena",
+			"TeamName" : "Mexico",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Sweden",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-16T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "Mexico",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Germany",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-22T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "Mexico",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "South Korea",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-01T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Mexico",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Brazil",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "Mexico"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e3888900"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-17T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "Sweden",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "South Korea",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-02T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Sweden",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Switzerland",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-06T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Sweden",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "England",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-22T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Sweden",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Germany",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-26T19:00:00.000-05:00"),
+			"Stadium City" : "Ekaterinburg",
+			"Stadium Name" : "Ekaterinburg Arena",
+			"TeamName" : "Sweden",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Mexico",
+			"OpposingScore" : NumberInt(0)
+		}
+	],
+	"Team" : "Sweden"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e3888901"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-22T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "South Korea",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Mexico",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-26T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "South Korea",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Germany",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-17T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "South Korea",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Sweden",
+			"OpposingScore" : NumberInt(1)
+		}
+	],
+	"Team" : "South Korea"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e3888902"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-17T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Belgium",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Panama",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-22T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "Belgium",
+			"TeamScore" : NumberInt(5),
+			"OpposingTeam" : "Tunisia",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-01T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "Belgium",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Japan",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-13T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Belgium",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "England",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-27T19:00:00.000-05:00"),
+			"Stadium City" : "Kaliningrad",
+			"Stadium Name" : "Kaliningrad Stadium",
+			"TeamName" : "Belgium",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "England",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-05T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "Belgium",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Brazil",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-09T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "Belgium",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "France",
+			"OpposingScore" : NumberInt(1)
+		}
+	],
+	"Team" : "Belgium"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e3888903"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-27T19:00:00.000-05:00"),
+			"Stadium City" : "Saransk",
+			"Stadium Name" : "Mordovia Arena",
+			"TeamName" : "Panama",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Tunisia",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-17T19:00:00.000-05:00"),
+			"Stadium City" : "Sochi",
+			"Stadium Name" : "Fisht Stadium",
+			"TeamName" : "Panama",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Belgium",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-23T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "Panama",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "England",
+			"OpposingScore" : NumberInt(6)
+		}
+	],
+	"Team" : "Panama"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e3888904"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-17T19:00:00.000-05:00"),
+			"Stadium City" : "Volgograd",
+			"Stadium Name" : "Volgograd Stadium",
+			"TeamName" : "Tunisia",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "England",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-22T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "Tunisia",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Belgium",
+			"OpposingScore" : NumberInt(5)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-27T19:00:00.000-05:00"),
+			"Stadium City" : "Saransk",
+			"Stadium Name" : "Mordovia Arena",
+			"TeamName" : "Tunisia",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Panama",
+			"OpposingScore" : NumberInt(0)
+		}
+	],
+	"Team" : "Tunisia"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e3888905"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-23T19:00:00.000-05:00"),
+			"Stadium City" : "Nizhny Novgorod",
+			"Stadium Name" : "Nizhny Novgorod Stadium",
+			"TeamName" : "England",
+			"TeamScore" : NumberInt(6),
+			"OpposingTeam" : "Panama",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-27T19:00:00.000-05:00"),
+			"Stadium City" : "Kaliningrad",
+			"Stadium Name" : "Kaliningrad Stadium",
+			"TeamName" : "England",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Belgium",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-17T19:00:00.000-05:00"),
+			"Stadium City" : "Volgograd",
+			"Stadium Name" : "Volgograd Stadium",
+			"TeamName" : "England",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Tunisia",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-02T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "England",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Colombia",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-06T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "England",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Sweden",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-10T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Luzhniki Stadium",
+			"TeamName" : "England",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Croatia",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-13T19:00:00.000-05:00"),
+			"Stadium City" : "Saint Petersburg",
+			"Stadium Name" : "Saint Petersburg Stadium",
+			"TeamName" : "England",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Belgium",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "England"
+},
+{
+	"_id" : ObjectId("5d479967fa2b9df5e3888906"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-18T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "Poland",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Senegal",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-23T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "Poland",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Colombia",
+			"OpposingScore" : NumberInt(3)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-27T19:00:00.000-05:00"),
+			"Stadium City" : "Volgograd",
+			"Stadium Name" : "Volgograd Stadium",
+			"TeamName" : "Poland",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Japan",
+			"OpposingScore" : NumberInt(1)
+		}
+	],
+	"Team" : "Poland"
+},
+{
+	"_id" : ObjectId("5d479968fa2b9df5e3888907"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-27T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Senegal",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Colombia",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-18T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "Senegal",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Poland",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-23T19:00:00.000-05:00"),
+			"Stadium City" : "Ekaterinburg",
+			"Stadium Name" : "Ekaterinburg Arena",
+			"TeamName" : "Senegal",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Japan",
+			"OpposingScore" : NumberInt(2)
+		}
+	],
+	"Team" : "Senegal"
+},
+{
+	"_id" : ObjectId("5d479968fa2b9df5e3888908"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-18T19:00:00.000-05:00"),
+			"Stadium City" : "Saransk",
+			"Stadium Name" : "Mordovia Arena",
+			"TeamName" : "Colombia",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Japan",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-02T19:00:00.000-05:00"),
+			"Stadium City" : "Moscow",
+			"Stadium Name" : "Spartak Stadium",
+			"TeamName" : "Colombia",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "England",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-23T19:00:00.000-05:00"),
+			"Stadium City" : "Kazan",
+			"Stadium Name" : "Kazan Arena",
+			"TeamName" : "Colombia",
+			"TeamScore" : NumberInt(3),
+			"OpposingTeam" : "Poland",
+			"OpposingScore" : NumberInt(0)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-27T19:00:00.000-05:00"),
+			"Stadium City" : "Samara",
+			"Stadium Name" : "Samara Arena",
+			"TeamName" : "Colombia",
+			"TeamScore" : NumberInt(0),
+			"OpposingTeam" : "Senegal",
+			"OpposingScore" : NumberInt(1)
+		}
+	],
+	"Team" : "Colombia"
+},
+{
+	"_id" : ObjectId("5d479968fa2b9df5e3888909"),
+	"Game_scores" : [
+		{
+			"MatchDate" : ISODate("2018-06-23T19:00:00.000-05:00"),
+			"Stadium City" : "Ekaterinburg",
+			"Stadium Name" : "Ekaterinburg Arena",
+			"TeamName" : "Japan",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Senegal",
+			"OpposingScore" : NumberInt(2)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-27T19:00:00.000-05:00"),
+			"Stadium City" : "Volgograd",
+			"Stadium Name" : "Volgograd Stadium",
+			"TeamName" : "Japan",
+			"TeamScore" : NumberInt(1),
+			"OpposingTeam" : "Poland",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-06-18T19:00:00.000-05:00"),
+			"Stadium City" : "Saransk",
+			"Stadium Name" : "Mordovia Arena",
+			"TeamName" : "Japan",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Colombia",
+			"OpposingScore" : NumberInt(1)
+		},
+		{
+			"MatchDate" : ISODate("2018-07-01T19:00:00.000-05:00"),
+			"Stadium City" : "Rostov-on-Don",
+			"Stadium Name" : "Rostov Arena",
+			"TeamName" : "Japan",
+			"TeamScore" : NumberInt(2),
+			"OpposingTeam" : "Belgium",
+			"OpposingScore" : NumberInt(3)
+		}
+	],
+	"Team" : "Japan"
+},
